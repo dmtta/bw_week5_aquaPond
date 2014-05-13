@@ -1,11 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FishScript.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\MS2\ms_final\ms_final_unity\Assets\Scripts\SceneChange.cs">
     <Files>
-      <File FileName="Assets\Scripts\FishAnimate.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FishScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FishGod.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\FishAnimate.cs" Line="1" Column="1" />
+      <File FileName="..\..\MS2\ms_final\ms_final_unity\Assets\Scripts\SceneChange.cs" Line="22" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
